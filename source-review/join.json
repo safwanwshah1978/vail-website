@@ -1,0 +1,44 @@
+{
+  "blocks": [
+    {
+      "tag": "h1",
+      "text": "Join Us"
+    },
+    {
+      "tag": "p",
+      "text": "We frequently have openings for exceptional students who wish to pursue a Ph.D. in Computer Science or Complex Systems and Data Science."
+    },
+    {
+      "tag": "p",
+      "text": "\u200b"
+    },
+    {
+      "tag": "p",
+      "text": "We are looking for bright, hardworking students interested in research and scholarship opportunities. Email a copy of your CV/Resume to safwan.wshah@uvm.edu. Ideal applicants should have advanced knowledge of deep learning with at least one high-quality publication, experience programming with Python, experience working with common deep learning frameworks (PyTorch, Tensorflow, etc.)."
+    }
+  ],
+  "images": [
+    {
+      "alt": "24210071_10155313663562637_1516703861014273095_o.jpg",
+      "src": "https://static.wixstatic.com/media/30f448_5da2492a03af43fa8acb385fd7416e06~mv2.jpg"
+    },
+    {
+      "alt": "244967991_10158738226282637_1448225902098520557_n.jpg",
+      "src": "https://static.wixstatic.com/media/30f448_a0f1e18c1afb446787554f821c97d821~mv2.jpg"
+    }
+  ],
+  "links": [
+    {
+      "text": "Computer Science",
+      "url": "https://www.uvm.edu/cems/cs/graduate_programs/computer_science_phd"
+    },
+    {
+      "text": "Complex Systems and Data Science",
+      "url": "http://www.vermontcomplexsystems.org/education/phd/"
+    },
+    {
+      "text": "safwan.wshah@uvm.edu",
+      "url": "mailto:safwan.wshah@uvm.edu"
+    }
+  ]
+}

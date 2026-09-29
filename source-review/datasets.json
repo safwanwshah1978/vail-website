@@ -1,0 +1,23 @@
+{
+  "blocks": [
+    {
+      "tag": "h1",
+      "text": "Automotive Repository of Traffic Signs"
+    },
+    {
+      "tag": "h5",
+      "text": "Automotive Repository of Traffic Signs (ARTS) is a large-scale dataset designed for traffic signs recognition tasks in the United States. It presents a new benchmark with various applications in the automotive industry (e.g. automotive database management and autonomous vehicles). The ARTS dataset is presented in three different configurations (Easy, Challenging, and Video-Logs). All three configurations of the dataset provide manually-labeled annotations very similar to the PASCAL VOC format. Feel free to explore the dataset here."
+    }
+  ],
+  "images": [],
+  "links": [
+    {
+      "text": "ARTS",
+      "url": "https://www.wshahaigroup.com/about"
+    },
+    {
+      "text": "here",
+      "url": "https://drive.google.com/drive/u/2/folders/1bMWnDfAOuaRf2WEb4YfQGbkB00hbVfbj"
+    }
+  ]
+}

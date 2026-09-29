@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "title": "Cross-View Meets Diffusion: Aerial Image Synthesis with Geometry and Text Guidance",
+      "authors": "Ahmad Arrabi, Xiaohan Zhang, Waqas Sultani, Chen Chen, and Safwan Wshah",
+      "venue": "WACV",
+      "year": 2025,
+      "url": "https://ahmadarrabi.github.io/GPG2A_web/",
+      "code": "",
+      "image": "",
+      "published": true
+    },
+    {
+      "title": "Cross-view Geo-localization via Learning Disentangled Geometric Layout Correspondence",
+      "authors": "Xiaohan Zhang et al.",
+      "venue": "AAAI",
+      "year": 2023,
+      "url": "https://arxiv.org/abs/2212.04074",
+      "code": "https://gitlab.com/vail-uvm/geodtr",
+      "image": "",
+      "published": true
+    },
+    {
+      "title": "Cross-View Image Sequence Geo-localization",
+      "authors": "Xiaohan Zhang, Waqas Sultani, and Safwan Wshah",
+      "venue": "WACV",
+      "year": 2023,
+      "url": "https://arxiv.org/abs/2210.14295",
+      "code": "",
+      "image": "",
+      "published": true
+    }
+  ]
+}

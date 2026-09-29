@@ -1,0 +1,512 @@
+{
+  "blocks": [
+    {
+      "tag": "h1",
+      "text": "Our Research Lab"
+    },
+    {
+      "tag": "p",
+      "text": "At the Vermont Artificial Intelligence Laboratory (VaiL), we operate at the intersection of machine learning theory and application. Our mission is to enhance the adaptability and generalization of machine learning methods, enabling high-quality solutions for a broader range of real-world challenges. Our core research focuses on image geo-localization and geospatial understanding from ground and satellite imagery. We also collaborate with interdisciplinary groups in high impactful areas in medical, transportation, energy, and communication."
+    },
+    {
+      "tag": "h2",
+      "text": "The Team"
+    },
+    {
+      "tag": "h3",
+      "text": "Dr. Safwan Wshah"
+    },
+    {
+      "tag": "h6",
+      "text": "Lab Director"
+    },
+    {
+      "tag": "p",
+      "text": "safwan.wshah@uvm.edu"
+    },
+    {
+      "tag": "p",
+      "text": "Dr. Safwan Wshah is currently an Associate Professor in the Department of Computer Science at the University of Vermont. His research interests lie at the intersection of machine learning theory and application. His core is in image geo-localization and visual geospatial understanding from multi-sources such as ground and Satellite images. He also has broader interests in deep learning, computer vision, data analytics, and image processing. Dr. Wshah received his Ph.D. in Computer Science and Engineering from the University at Buffalo in 2012. Prior to joining the University of Vermont, Dr. Wshah worked for Xerox and PARC (Palo Alto Research Center)- Xerox company, where he was involved in several projects creating machine learning algorithms for different applications in healthcare, transportation, and education fields."
+    },
+    {
+      "tag": "p",
+      "text": "Here is Dr. Wshah's full extended CV."
+    },
+    {
+      "tag": "h3",
+      "text": "Daniel Wilson"
+    },
+    {
+      "tag": "p",
+      "text": "PhD, Computer Science"
+    },
+    {
+      "tag": "p",
+      "text": "(Current)"
+    },
+    {
+      "tag": "p",
+      "text": "Daniel.Wilson@uvm.edu"
+    },
+    {
+      "tag": "p",
+      "text": "Dan received his B.S. in Computer Science from Earlham College in 2017. He worked for Norwich Solar Technologies before joining the University of Vermont, where he is currently pursuing his Ph.D. in Computer Science. His particular fields of interest are computer vision, object geolocalization, and autonomous driving."
+    },
+    {
+      "tag": "h3",
+      "text": "Xiaohan Zhang"
+    },
+    {
+      "tag": "p",
+      "text": "PhD, Computer Science"
+    },
+    {
+      "tag": "p",
+      "text": "(Current)"
+    },
+    {
+      "tag": "p",
+      "text": "Xiaohan.Zhang@uvm.edu"
+    },
+    {
+      "tag": "p",
+      "text": "https://zxh009123.github.io/"
+    },
+    {
+      "tag": "p",
+      "text": "Xiaohan received his B.S. from Michigan State University in 2017 and M.Sc in Computer Engineering from the University of California, Santa Cruz in 2020. He is now pursuing his Ph.D. degree at the University of Vermont in Computer Science. His research interests include computer vision, geo-localization and intelligent transportation."
+    },
+    {
+      "tag": "h3",
+      "text": "Ahmad Arrabi"
+    },
+    {
+      "tag": "p",
+      "text": "PhD, Computer Science"
+    },
+    {
+      "tag": "p",
+      "text": "(Current)"
+    },
+    {
+      "tag": "p",
+      "text": "Ahmad.Arrabi@uvm.edu"
+    },
+    {
+      "tag": "p",
+      "text": "Ahmad is currently pursuing a PhD. in Computer Science. His main research interests are in generative models, Geo-spatial understanding, and medical imaging. He obtained his B.S. in Computer Engineering from Princess Sumaya University for Technology in 2022."
+    },
+    {
+      "tag": "h3",
+      "text": "Muhammad Adil"
+    },
+    {
+      "tag": "p",
+      "text": "PhD, Computer Science"
+    },
+    {
+      "tag": "p",
+      "text": "(Current)"
+    },
+    {
+      "tag": "p",
+      "text": "Muhammad.Adil@uvm.edu"
+    },
+    {
+      "tag": "p",
+      "text": "Xiaohan received his B.S. from Michigan State University in 2017 and M.Sc in Computer Engineering from the University of California, Santa Cruz in 2020. He is now pursuing his Ph.D. degree at the University of Vermont in Computer Science. His research interests include computer vision, geo-localization and intelligent transportation."
+    },
+    {
+      "tag": "h3",
+      "text": "Ayesh Abu Lehyeh"
+    },
+    {
+      "tag": "p",
+      "text": "PhD, Computer Science"
+    },
+    {
+      "tag": "p",
+      "text": "(Current)"
+    },
+    {
+      "tag": "p",
+      "text": "Ayesh.Abulehyeh@uvm.edu"
+    },
+    {
+      "tag": "h3",
+      "text": "Jay Hwasung Jung"
+    },
+    {
+      "tag": "p",
+      "text": "PhD, Computer Science"
+    },
+    {
+      "tag": "p",
+      "text": "(Current)"
+    },
+    {
+      "tag": "p",
+      "text": "Jay-Hwasung.Jung@uvm.edu"
+    },
+    {
+      "tag": "p",
+      "text": "Ayesh is currently pursuing a Ph.D. in Computer Science at the University of Vermont. He earned his B.S. in Electrical Engineering from the University of Jordan. His research interests include machine learning applications in wireless networks, geo-localization, and applied machine learning in semiconductor manufacturing."
+    },
+    {
+      "tag": "p",
+      "text": "Jay Hwasung Jung is a PhD student at the Vermont AI Lab (VAIL) at the University of Vermont. He earned his undergraduate degree in Computer Science with a minor in Neuroscience from the University of Vermont. His research focuses on applied deep learning in biomedical engineering, particularly in protein design and medical image processing."
+    },
+    {
+      "tag": "h3",
+      "text": "Syed Altan Haider"
+    },
+    {
+      "tag": "p",
+      "text": "PhD, Computer Science"
+    },
+    {
+      "tag": "p",
+      "text": "(Current)"
+    },
+    {
+      "tag": "p",
+      "text": "Syed-Altan.Haider@uvm.edu"
+    },
+    {
+      "tag": "h3",
+      "text": "Yuqi Chen"
+    },
+    {
+      "tag": "p",
+      "text": "PhD, Computer Science"
+    },
+    {
+      "tag": "p",
+      "text": "(Current)"
+    },
+    {
+      "tag": "p",
+      "text": "Yuqi.Chen@uvm.edu"
+    },
+    {
+      "tag": "p",
+      "text": "Dan received his B.S. in Computer Science from Earlham College in 2017. He worked for Norwich Solar Technologies before joining the University of Vermont, where he is currently pursuing his Ph.D. in Computer Science. His particular fields of interest are computer vision, object geolocalization, and autonomous driving."
+    },
+    {
+      "tag": "p",
+      "text": "Yuqi Chen is a PhD student in Computer Science at the University of Vermont. Her research focuses on computer vision, geo-localization and reasoning. She earned her Master\u2019s degree in Software Engineering from Zhejiang Normal University in 2023."
+    },
+    {
+      "tag": "h3",
+      "text": "Omar Awajan"
+    },
+    {
+      "tag": "p",
+      "text": "MS, Computer Science"
+    },
+    {
+      "tag": "p",
+      "text": "(Current)"
+    },
+    {
+      "tag": "p",
+      "text": "Omar.Awajan@uvm.edu"
+    },
+    {
+      "tag": "p",
+      "text": "Omar Awajan earned his Bachelor of Science degree in Computer Science from Princess Sumaya University for Technology in 2019. Following his graduation, he worked in the industry gaining valuable experience in cybersecurity and IT infrastructure. Presently, he is pursuing a Master of Science in Computer Science at the University of Vermont, where his research focuses on advancing digital forensics techniques and utilizing artificial intelligence for ransomware detection and classification."
+    },
+    {
+      "tag": "h3",
+      "text": "Fayha Almutairi"
+    },
+    {
+      "tag": "p",
+      "text": "PhD, Computer Science"
+    },
+    {
+      "tag": "p",
+      "text": "(Alumni)"
+    },
+    {
+      "tag": "p",
+      "text": "Fayha received her B.S. degree and M.S. degree in Computer Science from King Saud University, Riyadh, Saudi Arabia, where she is currently working toward her Ph.D. in Computer Science at the University of Vermont. She is a lecturer at Shaqra University. Her research interests include Machine Learning, Smart Grids, Cyber Security."
+    },
+    {
+      "tag": "p",
+      "text": "Fayha.Almutairy@uvm.edu"
+    },
+    {
+      "tag": "h3",
+      "text": "Mustafa Matar"
+    },
+    {
+      "tag": "p",
+      "text": "PhD, Electrical engineering (Alumni)"
+    },
+    {
+      "tag": "p",
+      "text": "Mustafa comleted his master degress from princess sumaya university of technology from Jordan, Amman. He Joined VaiL in 2018. His research interests in applied machine learning in power systems."
+    },
+    {
+      "tag": "p",
+      "text": "Mustafa.Matar@uvm.edu"
+    },
+    {
+      "tag": "h3",
+      "text": "Colin Van Oort"
+    },
+    {
+      "tag": "p",
+      "text": "PhD,"
+    },
+    {
+      "tag": "p",
+      "text": "Complex systems and Data Science"
+    },
+    {
+      "tag": "p",
+      "text": "(Alumni)"
+    },
+    {
+      "tag": "p",
+      "text": "Colin completed his Ph.D. in 2021 at UVM where he focused on practical applications of deep learning systems. His research interests include design of deep learning systems, deep learning augmented modeling, and data-driven policy."
+    },
+    {
+      "tag": "p",
+      "text": "Colin.M.Van-Oort@uvm.edu"
+    },
+    {
+      "tag": "h3",
+      "text": "Join our group"
+    },
+    {
+      "tag": "p",
+      "text": "Computer Science or Complex systems and Data Science"
+    },
+    {
+      "tag": "p",
+      "text": "\u200b"
+    },
+    {
+      "tag": "p",
+      "text": "We frequently have openings for exceptional students who wish to pursue a Ph.D. in Computer Science or Complex Systems and Data Science."
+    },
+    {
+      "tag": "p",
+      "text": "contact professor wshah at swshah@uvm.edu"
+    },
+    {
+      "tag": "h3",
+      "text": "Nathaniel Ogilvie"
+    },
+    {
+      "tag": "p",
+      "text": "Computer Science (M.S.)(Current)"
+    },
+    {
+      "tag": "p",
+      "text": "Nayo is a current master's student. His research interest of object analysis and recognition in satellite images."
+    },
+    {
+      "tag": "h3",
+      "text": "Erik Brown"
+    },
+    {
+      "tag": "p",
+      "text": "Computer Science (M.S.)"
+    },
+    {
+      "tag": "p",
+      "text": "(Alumni)"
+    },
+    {
+      "tag": "p",
+      "text": "Erik research interest was in the design of deep learning systems, deep learning augmented modeling, and data-driven policy."
+    },
+    {
+      "tag": "h3",
+      "text": "Wyatt Wu"
+    },
+    {
+      "tag": "p",
+      "text": "Computer Science (M.S.)"
+    },
+    {
+      "tag": "p",
+      "text": "(Alumni)"
+    },
+    {
+      "tag": "p",
+      "text": "Wyatt's research interests involved applying machine learning to power systems."
+    },
+    {
+      "tag": "h3",
+      "text": "Kristin Mcclure"
+    },
+    {
+      "tag": "p",
+      "text": "Complex systems and Data Science (M.S.)"
+    },
+    {
+      "tag": "p",
+      "text": "(Alumni)"
+    },
+    {
+      "tag": "p",
+      "text": "\u200b"
+    },
+    {
+      "tag": "p",
+      "text": "Kristin's research interest was in researching deep-based algorithms for sleep apnea detection."
+    }
+  ],
+  "images": [
+    {
+      "alt": "240825860_10158677689662637_5099112329989458931_n.jpg",
+      "src": "https://static.wixstatic.com/media/30f448_01a06e64704d4cefac7ce5369e0e2908~mv2.jpg"
+    },
+    {
+      "alt": "2a9046d6-0222-4500-8f95-419a75bebbb8.bmp",
+      "src": "https://static.wixstatic.com/media/30f448_8ceda1970395436c9c0032585f923da8~mv2.png"
+    },
+    {
+      "alt": "danwilson-itx.png",
+      "src": "https://static.wixstatic.com/media/30f448_dc5ef9f2f1074b84994996594ec2c55c~mv2.png"
+    },
+    {
+      "alt": "head.jpg",
+      "src": "https://static.wixstatic.com/media/30f448_1205c294c1ef43c19a7e4b8792996af6~mv2.jpg"
+    },
+    {
+      "alt": "image.png",
+      "src": "https://static.wixstatic.com/media/30f448_e097d76b33fc473388a2f0b4d0ffc89b~mv2.png"
+    },
+    {
+      "alt": "Student.jpg",
+      "src": "https://static.wixstatic.com/media/30f448_b7c43fd5896540eaa73f0db851a73ac5~mv2.jpg"
+    },
+    {
+      "alt": "image.png",
+      "src": "https://static.wixstatic.com/media/30f448_e9f539a4359d4345a70c3a1d65c55e50~mv2.png"
+    },
+    {
+      "alt": "image.png",
+      "src": "https://static.wixstatic.com/media/30f448_e510da811a904e80978578c762dd0c86~mv2.png"
+    },
+    {
+      "alt": "Student.jpg",
+      "src": "https://static.wixstatic.com/media/30f448_b7c43fd5896540eaa73f0db851a73ac5~mv2.jpg"
+    },
+    {
+      "alt": "d36f888418387f2c81859051974483f1.jpg",
+      "src": "https://static.wixstatic.com/media/30f448_be0ed32602964cbc8edd8c39092deb0d~mv2.jpg"
+    },
+    {
+      "alt": "image.png",
+      "src": "https://static.wixstatic.com/media/30f448_52dc09de56f341efa720170385cbe937~mv2.png"
+    },
+    {
+      "alt": "person-gray-no-photo-placeholder-woman-silhouette-vector-23838606.jpg",
+      "src": "https://static.wixstatic.com/media/30f448_cd2f66f1fafc498eb2db2997c8d0286f~mv2.jpg"
+    },
+    {
+      "alt": "mustafa-qyh.png",
+      "src": "https://static.wixstatic.com/media/30f448_9fc4167043364ccfb1cc201ddd8585f3~mv2.png"
+    },
+    {
+      "alt": "colin-cjj.png",
+      "src": "https://static.wixstatic.com/media/30f448_64f5740a45c842a484a7b7d69f6cba0e~mv2.png"
+    },
+    {
+      "alt": "graduation.png",
+      "src": "https://static.wixstatic.com/media/30f448_0e62044e46f548b08412d2aafb60cf6c~mv2.png"
+    },
+    {
+      "alt": "1516841520261.jfif",
+      "src": "https://static.wixstatic.com/media/30f448_ad47b3836308426c8b37ac443298b591~mv2.jpg"
+    },
+    {
+      "alt": "erik-ttr.png",
+      "src": "https://static.wixstatic.com/media/30f448_39361290b9e3487f8f2695ebf9ff87f6~mv2.png"
+    },
+    {
+      "alt": "wyatt-jf7.png",
+      "src": "https://static.wixstatic.com/media/30f448_e4525279535b449d8659f163c93653bd~mv2.png"
+    },
+    {
+      "alt": "kristin-w3h.png",
+      "src": "https://static.wixstatic.com/media/30f448_d0683a8c295340e4974e83a78f134c5e~mv2.png"
+    }
+  ],
+  "links": [
+    {
+      "text": "safwan.wshah@uvm.edu",
+      "url": "mailto:info@mysite.com"
+    },
+    {
+      "text": "Daniel.Wilson@uvm.edu",
+      "url": "mailto:info@mysite.com"
+    },
+    {
+      "text": "Xiaohan.Zhang@uvm.edu",
+      "url": "mailto:info@mysite.com"
+    },
+    {
+      "text": "https://zxh009123.github.io/",
+      "url": "https://zxh009123.github.io/"
+    },
+    {
+      "text": "Ahmad.Arrabi@uvm.edu",
+      "url": "mailto:info@mysite.com"
+    },
+    {
+      "text": "Muhammad.Adil@uvm.edu",
+      "url": "mailto:info@mysite.com"
+    },
+    {
+      "text": "Ayesh.Abulehyeh@uvm.edu",
+      "url": "mailto:info@mysite.com"
+    },
+    {
+      "text": "Jay-Hwasung.Jung@uvm.edu",
+      "url": "mailto:info@mysite.com"
+    },
+    {
+      "text": "Syed-Altan.Haider@uvm.edu",
+      "url": "mailto:info@mysite.com"
+    },
+    {
+      "text": "Yuqi.Chen@uvm.edu",
+      "url": "mailto:info@mysite.com"
+    },
+    {
+      "text": "Omar.Awajan@uvm.edu",
+      "url": "mailto:info@mysite.com"
+    },
+    {
+      "text": "Fayha.Almutairy@uvm.edu",
+      "url": "mailto:info@mysite.com"
+    },
+    {
+      "text": "Mustafa.Matar@uvm.edu",
+      "url": "mailto:info@mysite.com"
+    },
+    {
+      "text": "Colin.M.Van-Oort@uvm.edu",
+      "url": "mailto:info@mysite.com"
+    },
+    {
+      "text": "Computer Science",
+      "url": "https://www.uvm.edu/cems/cs/graduate_programs/computer_science_phd"
+    },
+    {
+      "text": "Complex Systems and Data Science",
+      "url": "http://www.vermontcomplexsystems.org/education/phd/"
+    },
+    {
+      "text": "contact professor wshah at swshah@uvm.edu",
+      "url": "mailto:info@mysite.com"
+    }
+  ]
+}

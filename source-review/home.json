@@ -1,0 +1,248 @@
+{
+  "blocks": [
+    {
+      "tag": "h1",
+      "text": "LAB DIRECTOR"
+    },
+    {
+      "tag": "h2",
+      "text": "Dr. Safwan Wshah"
+    },
+    {
+      "tag": "h4",
+      "text": "University of Vermont Computer Science Department 417 Innovation safwan.wshah at uvm.edu"
+    },
+    {
+      "tag": "h1",
+      "text": "About Us"
+    },
+    {
+      "tag": "h1",
+      "text": "Join Us"
+    },
+    {
+      "tag": "p",
+      "text": "At the Vermont Artificial Intelligence Laboratory (VaiL), we operate at the intersection of machine learning theory and application. Our mission is to enhance the adaptability and generalization of machine learning methods, enabling high-quality solutions to address a wider range of real-world challenges. Our core research focuses on image geo-localization and geospatial understanding, leveraging diverse modalities and sensors, including ground-based and satellite imagery. Additionally, we actively collaborate with interdisciplinary teams across various fields."
+    },
+    {
+      "tag": "p",
+      "text": "Applications are invited for one doctoral research position starting in Fall 2025 in the Computer Science or Complex Systems and Data Science Programs within the Department of Computer Science at the University of Vermont. The successful candidate will work under the supervision of Prof. Safwan Wshah on projects focused on:"
+    },
+    {
+      "tag": "p",
+      "text": "Image geo-localization"
+    },
+    {
+      "tag": "p",
+      "text": "Geospatial understanding of satellite imagery"
+    },
+    {
+      "tag": "p",
+      "text": "Applicants should have a strong background in machine learning and software engineering. Preferred qualifications include a publication record in a relevant machine learning field and experience with open-source toolkits such as TensorFlow or PyTorch."
+    },
+    {
+      "tag": "p",
+      "text": "Interested candidates should submit the following:"
+    },
+    {
+      "tag": "p",
+      "text": "A CV, including a list of publications"
+    },
+    {
+      "tag": "p",
+      "text": "A brief description of research interests"
+    },
+    {
+      "tag": "p",
+      "text": "An academic transcript"
+    },
+    {
+      "tag": "p",
+      "text": "Contact information for three references from prior research experiences"
+    },
+    {
+      "tag": "p",
+      "text": "Please email application materials to safwan.wshah at uvm.edu. Candidates must also apply to and be admitted into the University of Vermont's Computer Science graduate program."
+    },
+    {
+      "tag": "p",
+      "text": "Review of applications will begin immediately and continue until the position is filled. Additional information about Prof. Wshah\u2019s research group and the University of Vermont can be found at www.wshahaigroup.com."
+    },
+    {
+      "tag": "h1",
+      "text": "News"
+    },
+    {
+      "tag": "h2",
+      "text": "Congrats to Fayha for successfully defending her Ph.D. thesis."
+    },
+    {
+      "tag": "h2",
+      "text": "Grant extension awarded - VTrans"
+    },
+    {
+      "tag": "h2",
+      "text": "Congrats to Colin for successfully defending his Ph.D. thesis."
+    },
+    {
+      "tag": "h2",
+      "text": "Grant awarded - UVM, UMaine, VTC win $4 Million NSF grant"
+    },
+    {
+      "tag": "h2",
+      "text": "Congrats to Wyatt Wu for successfully defending his M.S. thesis."
+    },
+    {
+      "tag": "h2",
+      "text": "Latest Publications"
+    },
+    {
+      "tag": "p",
+      "text": "Objects detection, geo-localization and enhancement in ground and satellite level images"
+    },
+    {
+      "tag": "p",
+      "text": "The concept of geo-localization refers to the process of determining where on earth some \u2018entity\u2019 is located, typically using GPS coordinates. The entity of interest may be an image, sequence of images, a video, satellite image, or even objects visible within the image. As massive datasets of GPS tagged media have rapidly become available due to smartphones and the internet, and deep learning has risen to enhance the performance capabilities of machine learning models, the fields of visual and object geo-localization have emerged due to its significant impact on a wide range of applications."
+    },
+    {
+      "tag": "p",
+      "text": "\u200b"
+    },
+    {
+      "tag": "h2",
+      "text": "For the full list of publications, please refer to Dr. Wshah"
+    },
+    {
+      "tag": "h2",
+      "text": "Google Scholar"
+    }
+  ],
+  "images": [
+    {
+      "alt": "vail-logo.png",
+      "src": "https://static.wixstatic.com/media/30f448_825f338c57ba4ef2880bfa02aaafb6ea~mv2.png"
+    },
+    {
+      "alt": "safwan-medium.jpg",
+      "src": "https://static.wixstatic.com/media/30f448_8a8c2f68163442b7b677b6ad85e06651~mv2.jpg"
+    },
+    {
+      "alt": "Slide1.JPG",
+      "src": "https://static.wixstatic.com/media/30f448_76c94fec97ee4effb255c1e5ace318eb~mv2.jpg"
+    },
+    {
+      "alt": "Instagram",
+      "src": "https://static.wixstatic.com/media/e1aa082f7c0747168d9cf43e77046142.png"
+    },
+    {
+      "alt": "Facebook",
+      "src": "https://static.wixstatic.com/media/4057345bcf57474b96976284050c00df.png"
+    },
+    {
+      "alt": "Twitter",
+      "src": "https://static.wixstatic.com/media/870f97661ed14a5bb2d96ecbddec0aed.png"
+    },
+    {
+      "alt": "LinkedIn",
+      "src": "https://static.wixstatic.com/media/aa0402eb9ba2430d9d0620b59556efca.png"
+    },
+    {
+      "alt": "YouTube",
+      "src": "https://static.wixstatic.com/media/45bce1d726f64f1999c49feae57f6298.png"
+    },
+    {
+      "alt": "TikTok",
+      "src": "https://static.wixstatic.com/media/11062b_66167d61316d4665841f3397360d54a9~mv2.png"
+    },
+    {
+      "alt": "Congrats to Fayha for successfully defending her Ph.D. thesis. ",
+      "src": "https://static.wixstatic.com/media/30f448_0e62044e46f548b08412d2aafb60cf6c~mv2.png"
+    },
+    {
+      "alt": "Congrats to Fayha for successfully defending her Ph.D. thesis. ",
+      "src": "https://static.wixstatic.com/media/30f448_0e62044e46f548b08412d2aafb60cf6c~mv2.png"
+    },
+    {
+      "alt": "Grant extension awarded - VTrans",
+      "src": "https://static.wixstatic.com/media/30f448_e36c3581134a491f97f43ba74c1da79b~mv2.png"
+    },
+    {
+      "alt": "Grant extension awarded - VTrans",
+      "src": "https://static.wixstatic.com/media/30f448_e36c3581134a491f97f43ba74c1da79b~mv2.png"
+    },
+    {
+      "alt": "Congrats to Colin for successfully defending his Ph.D. thesis.",
+      "src": "https://static.wixstatic.com/media/30f448_0e62044e46f548b08412d2aafb60cf6c~mv2.png"
+    },
+    {
+      "alt": "Congrats to Colin for successfully defending his Ph.D. thesis.",
+      "src": "https://static.wixstatic.com/media/30f448_0e62044e46f548b08412d2aafb60cf6c~mv2.png"
+    },
+    {
+      "alt": "Grant awarded - UVM, UMaine, VTC win $4 Million NSF grant ",
+      "src": "https://static.wixstatic.com/media/30f448_e36c3581134a491f97f43ba74c1da79b~mv2.png"
+    },
+    {
+      "alt": "Grant awarded - UVM, UMaine, VTC win $4 Million NSF grant ",
+      "src": "https://static.wixstatic.com/media/30f448_e36c3581134a491f97f43ba74c1da79b~mv2.png"
+    },
+    {
+      "alt": "Congrats to Wyatt Wu for successfully defending his M.S. thesis.",
+      "src": "https://static.wixstatic.com/media/30f448_0e62044e46f548b08412d2aafb60cf6c~mv2.png"
+    },
+    {
+      "alt": "Congrats to Wyatt Wu for successfully defending his M.S. thesis.",
+      "src": "https://static.wixstatic.com/media/30f448_0e62044e46f548b08412d2aafb60cf6c~mv2.png"
+    },
+    {
+      "alt": "geo-l;ocalization.png",
+      "src": "https://static.wixstatic.com/media/30f448_685128385e154b63b7b7e873ca0e1e24~mv2.png"
+    },
+    {
+      "alt": "120125345_10157958858377637_1196756227848152564_n.jpg",
+      "src": "https://static.wixstatic.com/media/30f448_cb3027143f834cd0ab3861534dd23a10~mv2.jpg"
+    }
+  ],
+  "links": [
+    {
+      "text": "safwan.wshah at uvm.edu",
+      "url": "mailto:safwan.wshah@uvm.edu"
+    },
+    {
+      "text": "Read More",
+      "url": "https://www.wshahaigroup.com/about"
+    },
+    {
+      "text": "Congrats to Fayha for successfully defending her Ph.D. thesis.",
+      "url": "https://www.wshahaigroup.com/post/congrats-to-fayha-for-successfully-defending-her-ph-d-thesis"
+    },
+    {
+      "text": "Grant extension awarded - VTrans",
+      "url": "https://www.wshahaigroup.com/post/grant-extension-awarded-vtrans"
+    },
+    {
+      "text": "Congrats to Colin for successfully defending his Ph.D. thesis.",
+      "url": "https://www.wshahaigroup.com/post/sssss"
+    },
+    {
+      "text": "Grant awarded - UVM, UMaine, VTC win $4 Million NSF grant",
+      "url": "https://www.wshahaigroup.com/post/grant-awarded-uvm-umaine-vtc-win-4-million-nsf-grant"
+    },
+    {
+      "text": "Congrats to Wyatt Wu for successfully defending his M.S. thesis.",
+      "url": "https://www.wshahaigroup.com/post/congrats-to-wyatt-wu-for-successfully-defending-his-m-s-thesis"
+    },
+    {
+      "text": "Read More",
+      "url": "https://www.wshahaigroup.com/contact"
+    },
+    {
+      "text": "Read More",
+      "url": "https://www.wshahaigroup.com/publications"
+    },
+    {
+      "text": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=Q7NskmwAAAAJ&hl=en"
+    }
+  ]
+}

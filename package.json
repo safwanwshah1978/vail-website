@@ -1,0 +1,1 @@
+{"name":"vail-website","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","configure":"node scripts/configure.mjs","test":"node --test scripts/auth.test.mjs"},"engines":{"node":">=22"}}

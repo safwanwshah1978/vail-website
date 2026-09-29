@@ -1,0 +1,18 @@
+{
+  "items": [
+    {
+      "title": "Machine Learning",
+      "body": "This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (linear regression, logistic regression, neural net- works, support vector machines, decision tree and introduction to convolutional neural networks); unsupervised learning (clustering, dimensionality reduction, kernel methods); The course will also discuss recent applications of machine learning, such as computer vision, data mining, robotic control, speech recognition, and text and web data processing in addition to advice on applying machine learning algorithms.\n\nTo understand the basic building blocks and general principles that allow one to design machine learning algorithms. • To become familiar with specific, widely used machine learning algorithms. • To learn methodology and tools to apply machine learning algorithms to real data and evaluate their performance",
+      "url": "",
+      "image": "",
+      "published": true
+    },
+    {
+      "title": "Deep Learning",
+      "body": "Over the past few years, deep learning has become an important technique to successfully solve problems in many different fields, such as Computer Vision, Natural language processing, and Robotics. The course, which will be taught through lectures and projects, will cover the underlying theory, the range of applications to which it has been applied, and learning from very large data sets. The course will cover connectionist architectures commonly associated with deep learning, e.g., basic neural networks, convolutional neural networks, auto-encoders, deep belief networks, recurrent neural networks and generative adversarial networks. In this course, students will train and optimize the architectures using open source software libraries such as Caffe, keras and Tensorflow.\n\n​To understand modern deep neural networks algorithms and how to train them. • To review recent state-of-the-art applications of deep learning to problems. • To gain experience using deep learning to solve problems in real life applications.",
+      "url": "",
+      "image": "",
+      "published": true
+    }
+  ]
+}

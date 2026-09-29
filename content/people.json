@@ -1,0 +1,157 @@
+{
+  "items": [
+    {
+      "name": "Dr. Safwan Wshah",
+      "role": "Associate Professor · Lab Director",
+      "email": "safwan.wshah@uvm.edu",
+      "bio": "Dr. Safwan Wshah is currently an Associate Professor in the Department of Computer Science at the University of Vermont. His research interests lie at the intersection of machine learning theory and application. His core is in image geo-localization and visual geospatial understanding from multi-sources such as ground and Satellite images. He also has broader interests in deep learning, computer vision, data analytics, and image processing. Dr. Wshah received his Ph.D. in Computer Science and Engineering from the University at Buffalo in 2012. Prior to joining the University of Vermont, Dr. Wshah worked for Xerox and PARC (Palo Alto Research Center)- Xerox company, where he was involved in several projects creating machine learning algorithms for different applications in healthcare, transportation, and education fields.",
+      "photo": "/uploads/safwan.jpg",
+      "status": "Current",
+      "published": true
+    },
+    {
+      "name": "Daniel Wilson",
+      "role": "PhD, Computer Science",
+      "email": "Daniel.Wilson@uvm.edu",
+      "bio": "Dan received his B.S. in Computer Science from Earlham College in 2017. He worked for Norwich Solar Technologies before joining the University of Vermont, where he is currently pursuing his Ph.D. in Computer Science. His particular fields of interest are computer vision, object geolocalization, and autonomous driving.",
+      "photo": "",
+      "status": "Current",
+      "published": true
+    },
+    {
+      "name": "Xiaohan Zhang",
+      "role": "PhD, Computer Science",
+      "email": "Xiaohan.Zhang@uvm.edu",
+      "bio": "Xiaohan received his B.S. from Michigan State University in 2017 and M.Sc in Computer Engineering from the University of California, Santa Cruz in 2020. He is now pursuing his Ph.D. degree at the University of Vermont in Computer Science. His research interests include computer vision, geo-localization and intelligent transportation.",
+      "photo": "",
+      "status": "Current",
+      "published": true
+    },
+    {
+      "name": "Ahmad Arrabi",
+      "role": "PhD, Computer Science",
+      "email": "Ahmad.Arrabi@uvm.edu",
+      "bio": "Ahmad is currently pursuing a PhD. in Computer Science. His main research interests are in generative models, Geo-spatial understanding, and medical imaging. He obtained his B.S. in Computer Engineering from Princess Sumaya University for Technology in 2022.",
+      "photo": "",
+      "status": "Current",
+      "published": true
+    },
+    {
+      "name": "Muhammad Adil",
+      "role": "PhD, Computer Science",
+      "email": "Muhammad.Adil@uvm.edu",
+      "bio": "",
+      "photo": "",
+      "status": "Current",
+      "published": true
+    },
+    {
+      "name": "Ayesh Abu Lehyeh",
+      "role": "PhD, Computer Science",
+      "email": "Ayesh.Abulehyeh@uvm.edu",
+      "bio": "Ayesh is currently pursuing a Ph.D. in Computer Science at the University of Vermont. He earned his B.S. in Electrical Engineering from the University of Jordan. His research interests include machine learning applications in wireless networks, geo-localization, and applied machine learning in semiconductor manufacturing.",
+      "photo": "",
+      "status": "Current",
+      "published": true
+    },
+    {
+      "name": "Jay Hwasung Jung",
+      "role": "PhD, Computer Science",
+      "email": "Jay-Hwasung.Jung@uvm.edu",
+      "bio": "Jay Hwasung Jung is a PhD student at the Vermont AI Lab (VAIL) at the University of Vermont. He earned his undergraduate degree in Computer Science with a minor in Neuroscience from the University of Vermont. His research focuses on applied deep learning in biomedical engineering, particularly in protein design and medical image processing.",
+      "photo": "",
+      "status": "Current",
+      "published": true
+    },
+    {
+      "name": "Syed Altan Haider",
+      "role": "PhD, Computer Science",
+      "email": "Syed-Altan.Haider@uvm.edu",
+      "bio": "",
+      "photo": "",
+      "status": "Current",
+      "published": true
+    },
+    {
+      "name": "Yuqi Chen",
+      "role": "PhD, Computer Science",
+      "email": "Yuqi.Chen@uvm.edu",
+      "bio": "Yuqi Chen is a PhD student in Computer Science at the University of Vermont. Her research focuses on computer vision, geo-localization and reasoning. She earned her Master’s degree in Software Engineering from Zhejiang Normal University in 2023.",
+      "photo": "",
+      "status": "Current",
+      "published": true
+    },
+    {
+      "name": "Omar Awajan",
+      "role": "MS, Computer Science",
+      "email": "Omar.Awajan@uvm.edu",
+      "bio": "Omar Awajan earned his Bachelor of Science degree in Computer Science from Princess Sumaya University for Technology in 2019. Following his graduation, he worked in the industry gaining valuable experience in cybersecurity and IT infrastructure. Presently, he is pursuing a Master of Science in Computer Science at the University of Vermont, where his research focuses on advancing digital forensics techniques and utilizing artificial intelligence for ransomware detection and classification.",
+      "photo": "",
+      "status": "Current",
+      "published": true
+    },
+    {
+      "name": "Fayha Almutairi",
+      "role": "PhD, Computer Science",
+      "email": "Fayha.Almutairy@uvm.edu",
+      "bio": "Fayha received her B.S. degree and M.S. degree in Computer Science from King Saud University, Riyadh, Saudi Arabia, where she is currently working toward her Ph.D. in Computer Science at the University of Vermont. She is a lecturer at Shaqra University. Her research interests include Machine Learning, Smart Grids, Cyber Security.",
+      "photo": "",
+      "status": "Alumni",
+      "published": true
+    },
+    {
+      "name": "Mustafa Matar",
+      "role": "",
+      "email": "Mustafa.Matar@uvm.edu",
+      "bio": "Mustafa comleted his master degress from princess sumaya university of technology from Jordan, Amman. He Joined VaiL in 2018. His research interests in applied machine learning in power systems.",
+      "photo": "",
+      "status": "Alumni",
+      "published": true
+    },
+    {
+      "name": "Colin Van Oort",
+      "role": "PhD, Complex systems and Data Science",
+      "email": "Colin.M.Van-Oort@uvm.edu",
+      "bio": "Colin completed his Ph.D. in 2021 at UVM where he focused on practical applications of deep learning systems. His research interests include design of deep learning systems, deep learning augmented modeling, and data-driven policy.",
+      "photo": "",
+      "status": "Alumni",
+      "published": true
+    },
+    {
+      "name": "Nathaniel Ogilvie",
+      "role": "",
+      "email": "",
+      "bio": "Nayo is a current master's student. His research interest of object analysis and recognition in satellite images.",
+      "photo": "",
+      "status": "Current",
+      "published": true
+    },
+    {
+      "name": "Erik Brown",
+      "role": "Computer Science (M.S.)",
+      "email": "",
+      "bio": "Erik research interest was in the design of deep learning systems, deep learning augmented modeling, and data-driven policy.",
+      "photo": "",
+      "status": "Alumni",
+      "published": true
+    },
+    {
+      "name": "Wyatt Wu",
+      "role": "Computer Science (M.S.)",
+      "email": "",
+      "bio": "",
+      "photo": "",
+      "status": "Alumni",
+      "published": true
+    },
+    {
+      "name": "Kristin Mcclure",
+      "role": "Complex systems and Data Science (M.S.) ​",
+      "email": "",
+      "bio": "Kristin's research interest was in researching deep-based algorithms for sleep apnea detection.",
+      "photo": "",
+      "status": "Alumni",
+      "published": true
+    }
+  ]
+}

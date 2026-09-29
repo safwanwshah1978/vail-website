@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Cross-View Meets Diffusion: Aerial Image Synthesis with Geometry and Text Guidance",
+      "body": "Aerial imagery is often limited by high costs and effort. This paper introduces the Geometric Preserving Ground-to-Aerial Image Synthesis (GPG2A) model, which generates realistic aerial images from ground images using a two-stage process: predicting a Bird’s Eye View (BEV) layout map and synthesizing aerial images from the map and text descriptions. A new dataset, VIGORv2, enhances the existing VIGOR dataset with additional aerial images, layout maps, and textual data. GPG2A outperforms existing models in geometry preservation and supports applications like data augmentation for cross-view geo-localization and sketch-based region search, demonstrating its practical value and effectiveness.\n\n",
+      "image": "",
+      "url": "https://ahmadarrabi.github.io/GPG2A_web/",
+      "published": true
+    },
+    {
+      "title": "Cross-view Geo-localization via Learning Disentangled Geometric Layout Correspondence",
+      "body": "Our paper \"Cross-view Geo-localization via Learning Disentangled Geometric Layout Correspondence\" has been accepted to AAAI-23. In this paper, we propose GeoDTR which explicitly disentangles the geometric layout information from low-level details. We also present two categories of augmentations to regularize the model to learn more robust and coherent feature representations. Moreover, a counterfactual training paradigm is adopted to provide an extra weakly supervision signal to the model.\n\n",
+      "image": "",
+      "url": "https://arxiv.org/abs/2212.04074",
+      "published": true
+    },
+    {
+      "title": "Cross-View Image Sequence Geo-localization",
+      "body": "Our work \"Cross-View Image Sequence Geo-localization\" has been accepted to WACV 2023. In this paper, we propose and tackle the problem of cross-view image sequence geo-localization, which is an extension of the cross-view image geo-localization problem. Since no existing dataset is available, we collected the first large-scale dataset for training and benchmarking purposes for this problem. Moreover, we propose a specific feature aggregation module to exploit the temporal feature in the ground sequence.\n\n",
+      "image": "",
+      "url": "https://arxiv.org/abs/2210.14295",
+      "published": true
+    },
+    {
+      "title": "Objects detection, geo-localization and enhancement in ground and satellite level images",
+      "body": "The concept of geo-localization refers to the process of determining where on earth some ‘entity’ is located, typically using GPS coordinates. The entity of interest may be an image, sequence of images, a video, satellite image, or even objects visible within the image. As massive datasets of GPS tagged media have rapidly become available due to smartphones and the internet, and deep learning has risen to enhance the performance capabilities of machine learning models, the fields of visual and object geo-localization have emerged due to its significant impact on a wide range of applications such as augmented reality, robotics, self-driving vehicles, road maintenance, and 3D reconstruction.\n\nIn this research thrust, we investigate advanced deep learning-based approaches to effectively geo-localize images, objects from the ground- and satellite-level images. Which involves either determining from where an image has been captured (Image geo-localization) or geo-locating objects within an image (Object geo-localization).\n\n",
+      "image": "/uploads/geolocation.png",
+      "url": "",
+      "published": true
+    },
+    {
+      "title": "Machine learning-guided design of antimicrobial peptides",
+      "body": "Antimicrobial peptides (AMPs) show promise in treating resistant infections. However, applications of known AMPs have encountered issues in development, production, and shelf-life. To drive the development of AMP-based treatments, it is necessary to create design approaches with higher precision and selectivity toward resistant targets.\n\nIn this project, we developed AMPGAN a generative adversarial-based model, and obtained proof-of-concept evidence for the generative approach to design AMPs with experimental validation. We proposed a bidirectional conditional generative adversarial network (BiCGAN)-based approach for rational AMP design. Antimicrobial peptides (AMPs) show promise in treating resistant infections. However, applications of known AMPs have encountered issues in development, production, and shelf-life. To drive the development of AMP-based treatments, it is necessary to create design approaches with higher precision and selectivity toward resistant targets. In this project, we developed AMPGAN a generative adversarial-based model, and obtained proof-of-concept evidence for the generative approach to design AMPs with experimental validation. We proposed a bidirectional conditional generative adversarial network (BiCGAN)-based approach for rational AMP design.\n\n",
+      "image": "",
+      "url": "",
+      "published": true
+    }
+  ]
+}

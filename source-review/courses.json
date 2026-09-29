@@ -1,0 +1,67 @@
+{
+  "blocks": [
+    {
+      "tag": "h1",
+      "text": "Courses"
+    },
+    {
+      "tag": "p",
+      "text": "Dr. Wshah teaches two courses, Machine Learning (CS254) and Deep Learning (CS354). He offers Machine Learning in Fall (in person) and Spring (Online) and offers Deep Learning in Spring."
+    },
+    {
+      "tag": "h2",
+      "text": "DESCRIPTION"
+    },
+    {
+      "tag": "p",
+      "text": "This course provides a broad introduction to machine learning and statistical pattern recognition. Topics include: supervised learning (linear regression, logistic regression, neural net- works, support vector machines, decision tree and introduction to convolutional neural networks); unsupervised learning (clustering, dimensionality reduction, kernel methods); The course will also discuss recent applications of machine learning, such as computer vision, data mining, robotic control, speech recognition, and text and web data processing in addition to advice on applying machine learning algorithms."
+    },
+    {
+      "tag": "h2",
+      "text": "GOALS"
+    },
+    {
+      "tag": "p",
+      "text": "To understand the basic building blocks and general principles that allow one to design machine learning algorithms. \u2022 To become familiar with specific, widely used machine learning algorithms. \u2022 To learn methodology and tools to apply machine learning algorithms to real data and evaluate their performance"
+    },
+    {
+      "tag": "p",
+      "text": "02"
+    },
+    {
+      "tag": "h2",
+      "text": "Project Name"
+    },
+    {
+      "tag": "p",
+      "text": "This is your Project description. Provide a brief summary to help visitors understand the context and background of your work. Click on \"Edit Text\" or double click on the text box to start."
+    },
+    {
+      "tag": "h2",
+      "text": "DESCRIPTION"
+    },
+    {
+      "tag": "p",
+      "text": "Over the past few years, deep learning has become an important technique to successfully solve problems in many different fields, such as Computer Vision, Natural language processing, and Robotics. The course, which will be taught through lectures and projects, will cover the underlying theory, the range of applications to which it has been applied, and learning from very large data sets. The course will cover connectionist architectures commonly associated with deep learning, e.g., basic neural networks, convolutional neural networks, auto-encoders, deep belief networks, recurrent neural networks and generative adversarial networks. In this course, students will train and optimize the architectures using open source software libraries such as Caffe, keras and Tensorflow."
+    },
+    {
+      "tag": "h2",
+      "text": "GOALS"
+    },
+    {
+      "tag": "p",
+      "text": "\u200bTo understand modern deep neural networks algorithms and how to train them. \u2022 To review recent state-of-the-art applications of deep learning to problems. \u2022 To gain experience using deep learning to solve problems in real life applications."
+    }
+  ],
+  "images": [
+    {
+      "alt": "Technology",
+      "src": "https://static.wixstatic.com/media/11062b_29e49833d7984745bd4edb654c063681~mv2.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://static.wixstatic.com/media/a3c153_c3a1f52d22f34ebf807575c44a0b3c46~mv2.jpg"
+    }
+  ],
+  "links": []
+}

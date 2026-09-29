@@ -1,0 +1,180 @@
+{
+  "blocks": [
+    {
+      "tag": "h1",
+      "text": "Publications"
+    },
+    {
+      "tag": "p",
+      "text": "For a full and latest list of publications, please refer to"
+    },
+    {
+      "tag": "p",
+      "text": "Google Scholar"
+    },
+    {
+      "tag": "h2",
+      "text": "Cross-view Geo-localization via Learning Disentangled Geometric Layout Correspondence"
+    },
+    {
+      "tag": "p",
+      "text": "Aerial imagery is often limited by high costs and effort. This paper introduces the Geometric Preserving Ground-to-Aerial Image Synthesis (GPG2A) model, which generates realistic aerial images from ground images using a two-stage process: predicting a Bird\u2019s Eye View (BEV) layout map and synthesizing aerial images from the map and text descriptions. A new dataset, VIGORv2, enhances the existing VIGOR dataset with additional aerial images, layout maps, and textual data. GPG2A outperforms existing models in geometry preservation and supports applications like data augmentation for cross-view geo-localization and sketch-based region search, demonstrating its practical value and effectiveness."
+    },
+    {
+      "tag": "h6",
+      "text": "Ahmad Arrabi, Xiaohan Zhang, Waqas Sultani, Chen Chen, and Safwan Wshah. Cross-View Meets Diffusion: Aerial Image Synthesis with Geometry and Text Guidance. Accepted to WACV 2025."
+    },
+    {
+      "tag": "h2",
+      "text": "Cross-view Geo-localization via Learning Disentangled Geometric Layout Correspondence"
+    },
+    {
+      "tag": "p",
+      "text": "Our paper \"Cross-view Geo-localization via Learning Disentangled Geometric Layout Correspondence\" has been accepted to AAAI-23. In this paper, we propose GeoDTR which explicitly disentangles the geometric layout information from low-level details. We also present two categories of augmentations to regularize the model to learn more robust and coherent feature representations. Moreover, a counterfactual training paradigm is adopted to provide an extra weakly supervision signal to the model."
+    },
+    {
+      "tag": "p",
+      "text": "Our paper and code are publically available here and here."
+    },
+    {
+      "tag": "h6",
+      "text": "Zhang, Xiaohan, et al. \"Cross-view Geo-localization via Learning Disentangled Geometric Layout Correspondence.\" arXiv preprint arXiv:2212.04074 (2022)."
+    },
+    {
+      "tag": "h2",
+      "text": "Cross-View Image Sequence Geo-localization"
+    },
+    {
+      "tag": "p",
+      "text": "Our work \"Cross-View Image Sequence Geo-localization\" has been accepted to WACV 2023. In this paper, we propose and tackle the problem of cross-view image sequence geo-localization, which is an extension of the cross-view image geo-localization problem. Since no existing dataset is available, we collected the first large-scale dataset for training and benchmarking purposes for this problem. Moreover, we propose a specific feature aggregation module to exploit the temporal feature in the ground sequence."
+    },
+    {
+      "tag": "p",
+      "text": "For more detailed information, please refer to our paper here. The corresponding code and dataset can be accessed here."
+    },
+    {
+      "tag": "p",
+      "text": "If you are interested in more comprehensive topics in visual geo-localization, our recent papers, \"Visual and Object Geo-localization: A Comprehensive Survey\" can be a good resource. A preprint version is available here."
+    },
+    {
+      "tag": "h6",
+      "text": "Zhang, Xiaohan, Waqas Sultani, and Safwan Wshah. \"Cross-View Image Sequence Geo-localization.\" arXiv preprint arXiv:2210.14295 (2022)."
+    },
+    {
+      "tag": "h2",
+      "text": "Objects detection, geo-localization and enhancement in ground and satellite level images"
+    },
+    {
+      "tag": "p",
+      "text": "The concept of geo-localization refers to the process of determining where on earth some \u2018entity\u2019 is located, typically using GPS coordinates. The entity of interest may be an image, sequence of images, a video, satellite image, or even objects visible within the image. As massive datasets of GPS tagged media have rapidly become available due to smartphones and the internet, and deep learning has risen to enhance the performance capabilities of machine learning models, the fields of visual and object geo-localization have emerged due to its significant impact on a wide range of applications such as augmented reality, robotics, self-driving vehicles, road maintenance, and 3D reconstruction."
+    },
+    {
+      "tag": "p",
+      "text": "In this research thrust, we investigate advanced deep learning-based approaches to effectively geo-localize images, objects from the ground- and satellite-level images. Which involves either determining from where an image has been captured (Image geo-localization) or geo-locating objects within an image (Object geo-localization)."
+    },
+    {
+      "tag": "h6",
+      "text": "Almutairy F, Alshaabi T, Nelson J, Wshah S. ARTS: Automotive Repository of Traffic Signs for the United States. IEEE Transactions on Intelligent Transportation Systems. 2019 Dec 27;22(1):457-65. Wilson D, Alshaabi T, Van Oort C, Zhang X, Nelson J, Wshah S. Object Tracking and Geo-localization from Street Images. arXiv preprint arXiv:2107.06257. 2021 Jul 13. Wilson D, Zhang X, Sultani W, Wshah S. Visual and Object Geo-localization: A Comprehensive Survey. arXiv preprint arXiv:2112.15202. 2021 Dec 30."
+    },
+    {
+      "tag": "h2",
+      "text": "MACHINE LEARNING-GUIDED DESIGN OF ANTIMICROBIAL PEPTIDES"
+    },
+    {
+      "tag": "p",
+      "text": "Antimicrobial peptides (AMPs) show promise in treating resistant infections. However, applications of known AMPs have encountered issues in development, production, and shelf-life. To drive the development of AMP-based treatments, it is necessary to create design approaches with higher precision and selectivity toward resistant targets."
+    },
+    {
+      "tag": "p",
+      "text": "In this project, we developed AMPGAN a generative adversarial-based model, and obtained proof-of-concept evidence for the generative approach to design AMPs with experimental validation. We proposed a bidirectional conditional generative adversarial network (BiCGAN)-based approach for rational AMP design. Antimicrobial peptides (AMPs) show promise in treating resistant infections. However, applications of known AMPs have encountered issues in development, production, and shelf-life. To drive the development of AMP-based treatments, it is necessary to create design approaches with higher precision and selectivity toward resistant targets. In this project, we developed AMPGAN a generative adversarial-based model, and obtained proof-of-concept evidence for the generative approach to design AMPs with experimental validation. We proposed a bidirectional conditional generative adversarial network (BiCGAN)-based approach for rational AMP design."
+    },
+    {
+      "tag": "h6",
+      "text": "Van Oort CM, Ferrell JB, Remington JM, Wshah S, Li J. AMPGAN v2: Machine Learning-Guided Design of Antimicrobial Peptides. Journal of chemical information and modeling. 2021 Mar 31;61(5):2198-207. Ferrell JB, Remington JM, Van Oort CM, Sharafi M, Aboushousha R, Janssen-Heininger Y, Schneebeli ST, Wargo MJ, Wshah S, Li J. A Generative Approach toward Precision Antimicrobial Peptide Design. BioRxiv. 2021 Jan 1:2020-10."
+    }
+  ],
+  "images": [
+    {
+      "alt": "",
+      "src": "https://static.wixstatic.com/media/ad420a_f98d68876fc145f595d999cec41dda12~mv2.jpg"
+    },
+    {
+      "alt": "image.png",
+      "src": "https://static.wixstatic.com/media/30f448_a74904e882a4416da73a2a0d32461764~mv2.png"
+    },
+    {
+      "alt": "GeoDTR.gif",
+      "src": "https://static.wixstatic.com/media/30f448_94b305952953416283665703cec77996~mv2.gif"
+    },
+    {
+      "alt": "WACV2023_linkedin_post.gif",
+      "src": "https://static.wixstatic.com/media/30f448_cffad227c2e34c95aa8ecf66a0a008af~mv2.gif"
+    },
+    {
+      "alt": "geo-l;ocalization.png",
+      "src": "https://static.wixstatic.com/media/30f448_685128385e154b63b7b7e873ca0e1e24~mv2.png"
+    },
+    {
+      "alt": "Peptide (1).gif",
+      "src": "https://static.wixstatic.com/media/30f448_dc04430c24004fe08c86b456ffe34515~mv2.gif"
+    }
+  ],
+  "links": [
+    {
+      "text": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=Q7NskmwAAAAJ&hl=en"
+    },
+    {
+      "text": "Ahmad Arrabi, Xiaohan Zhang, Waqas Sultani, Chen Chen, and Safwan Wshah. Cross-View Meets Diffusion: Aerial Image Synthesis with Geometry and Text Guidance. Accepted to WACV 2025.",
+      "url": "https://ahmadarrabi.github.io/GPG2A_web/"
+    },
+    {
+      "text": "here",
+      "url": "https://arxiv.org/pdf/2212.04074.pdf"
+    },
+    {
+      "text": "here.",
+      "url": "https://gitlab.com/vail-uvm/geodtr"
+    },
+    {
+      "text": "Zhang, Xiaohan, et al. \"Cross-view Geo-localization via Learning Disentangled Geometric Layout Correspondence.\" arXiv preprint arXiv:2212.04074 (2022).",
+      "url": "https://arxiv.org/abs/2212.04074"
+    },
+    {
+      "text": "Cross-View Image Sequence Geo-localization",
+      "url": "https://arxiv.org/abs/2210.14295"
+    },
+    {
+      "text": "here",
+      "url": "https://lnkd.in/gNh2XF6P"
+    },
+    {
+      "text": "here",
+      "url": "https://lnkd.in/gaA_rSH3"
+    },
+    {
+      "text": "here",
+      "url": "https://lnkd.in/g63DuSNs."
+    },
+    {
+      "text": "Zhang, Xiaohan, Waqas Sultani, and Safwan Wshah. \"Cross-View Image Sequence Geo-localization.\" arXiv preprint arXiv:2210.14295 (2022).",
+      "url": "https://arxiv.org/abs/2212.04074"
+    },
+    {
+      "text": "Almutairy F, Alshaabi T, Nelson J, Wshah S. ARTS: Automotive Repository of Traffic Signs for the United States. IEEE Transactions on Intelligent Transportation Systems. 2019 Dec 27;22(1):457-65.",
+      "url": "https://ieeexplore.ieee.org/abstract/document/8943972"
+    },
+    {
+      "text": "Wilson D, Alshaabi T, Van Oort C, Zhang X, Nelson J, Wshah S. Object Tracking and Geo-localization from Street Images. arXiv preprint arXiv:2107.06257. 2021 Jul 13.",
+      "url": "https://arxiv.org/abs/2107.06257"
+    },
+    {
+      "text": "Wilson D, Zhang X, Sultani W, Wshah S. Visual and Object Geo-localization: A Comprehensive Survey. arXiv preprint arXiv:2112.15202. 2021 Dec 30.",
+      "url": "https://arxiv.org/abs/2112.15202"
+    },
+    {
+      "text": "Van Oort CM, Ferrell JB, Remington JM, Wshah S, Li J. AMPGAN v2: Machine Learning-Guided Design of Antimicrobial Peptides. Journal of chemical information and modeling. 2021 Mar 31;61(5):2198-207. Ferrell JB, Remington JM, Van Oort CM, Sharafi M, Aboushousha R, Janssen-Heininger Y, Schneebeli ST, Wargo MJ, Wshah S, Li J. A Generative Approach toward Precision Antimicrobial Peptide Design. BioRxiv. 2021 Jan 1:2020-10.",
+      "url": "https://www.biorxiv.org/content/10.1101/2020.10.02.324087v2.abstract"
+    }
+  ]
+}

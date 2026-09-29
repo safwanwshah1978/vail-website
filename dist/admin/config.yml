@@ -1,0 +1,414 @@
+{
+  "backend": {
+    "name": "github",
+    "repo": "safwanwshah1978/vail-website",
+    "branch": "main",
+    "base_url": "https://CONFIGURE.pages.dev",
+    "auth_endpoint": "api/auth"
+  },
+  "media_folder": "public/uploads",
+  "public_folder": "/uploads",
+  "logo_url": "/uploads/vail-logo.png",
+  "collections": [
+    {
+      "name": "settings",
+      "label": "Home & contact",
+      "files": [
+        {
+          "name": "settings",
+          "label": "Home page and contact details",
+          "file": "content/settings.json",
+          "fields": [
+            {
+              "name": "name",
+              "label": "Lab name",
+              "widget": "string"
+            },
+            {
+              "name": "shortName",
+              "label": "Short name",
+              "widget": "string"
+            },
+            {
+              "name": "institution",
+              "label": "Institution",
+              "widget": "string"
+            },
+            {
+              "name": "headline",
+              "label": "Homepage headline",
+              "widget": "text"
+            },
+            {
+              "name": "intro",
+              "label": "Introduction",
+              "widget": "text"
+            },
+            {
+              "name": "email",
+              "label": "Contact email",
+              "widget": "string"
+            },
+            {
+              "name": "address",
+              "label": "Address",
+              "widget": "string"
+            },
+            {
+              "name": "scholar",
+              "label": "Google Scholar link",
+              "widget": "string"
+            },
+            {
+              "name": "joinText",
+              "label": "Recruitment message",
+              "widget": "text"
+            },
+            {
+              "name": "githubRepo",
+              "label": "GitHub repository",
+              "widget": "hidden"
+            },
+            {
+              "name": "siteUrl",
+              "label": "Site URL",
+              "widget": "hidden"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "people",
+      "label": "People",
+      "files": [
+        {
+          "label": "Edit people",
+          "name": "entries",
+          "file": "content/people.json",
+          "fields": [
+            {
+              "name": "items",
+              "label": "Entries",
+              "widget": "list",
+              "summary": "{{fields.name}}",
+              "fields": [
+                {
+                  "name": "name",
+                  "label": "Name",
+                  "widget": "string"
+                },
+                {
+                  "name": "role",
+                  "label": "Role / degree",
+                  "widget": "string"
+                },
+                {
+                  "name": "status",
+                  "label": "Status",
+                  "widget": "select",
+                  "options": [
+                    "Current",
+                    "Alumni"
+                  ]
+                },
+                {
+                  "name": "email",
+                  "label": "Email",
+                  "widget": "string",
+                  "required": false
+                },
+                {
+                  "name": "bio",
+                  "label": "Biography",
+                  "widget": "text",
+                  "required": false
+                },
+                {
+                  "name": "photo",
+                  "label": "Photo",
+                  "widget": "image",
+                  "required": false
+                },
+                {
+                  "name": "published",
+                  "label": "Show on website",
+                  "widget": "boolean",
+                  "default": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "publications",
+      "label": "Publications",
+      "files": [
+        {
+          "label": "Edit publications",
+          "name": "entries",
+          "file": "content/publications.json",
+          "fields": [
+            {
+              "name": "items",
+              "label": "Entries",
+              "widget": "list",
+              "summary": "{{fields.title}}",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "Paper title",
+                  "widget": "string"
+                },
+                {
+                  "name": "authors",
+                  "label": "Authors",
+                  "widget": "string"
+                },
+                {
+                  "name": "year",
+                  "label": "Year",
+                  "widget": "number",
+                  "value_type": "int",
+                  "min": 1900,
+                  "max": 2200
+                },
+                {
+                  "name": "venue",
+                  "label": "Journal / conference",
+                  "widget": "string"
+                },
+                {
+                  "name": "url",
+                  "label": "Paper or project link",
+                  "widget": "string",
+                  "required": false
+                },
+                {
+                  "name": "code",
+                  "label": "Code link",
+                  "widget": "string",
+                  "required": false
+                },
+                {
+                  "name": "image",
+                  "label": "Image",
+                  "widget": "image",
+                  "required": false
+                },
+                {
+                  "name": "published",
+                  "label": "Show on website",
+                  "widget": "boolean",
+                  "default": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "research",
+      "label": "Research",
+      "files": [
+        {
+          "label": "Edit research",
+          "name": "entries",
+          "file": "content/research.json",
+          "fields": [
+            {
+              "name": "items",
+              "label": "Entries",
+              "widget": "list",
+              "summary": "{{fields.title}}",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "Title",
+                  "widget": "string"
+                },
+                {
+                  "name": "body",
+                  "label": "Description",
+                  "widget": "text",
+                  "required": false
+                },
+                {
+                  "name": "image",
+                  "label": "Image",
+                  "widget": "image",
+                  "required": false
+                },
+                {
+                  "name": "url",
+                  "label": "Resource link",
+                  "widget": "string",
+                  "required": false
+                },
+                {
+                  "name": "published",
+                  "label": "Show on website",
+                  "widget": "boolean",
+                  "default": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "datasets",
+      "label": "Datasets",
+      "files": [
+        {
+          "label": "Edit datasets",
+          "name": "entries",
+          "file": "content/datasets.json",
+          "fields": [
+            {
+              "name": "items",
+              "label": "Entries",
+              "widget": "list",
+              "summary": "{{fields.title}}",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "Title",
+                  "widget": "string"
+                },
+                {
+                  "name": "body",
+                  "label": "Description",
+                  "widget": "text",
+                  "required": false
+                },
+                {
+                  "name": "image",
+                  "label": "Image",
+                  "widget": "image",
+                  "required": false
+                },
+                {
+                  "name": "url",
+                  "label": "Resource link",
+                  "widget": "string",
+                  "required": false
+                },
+                {
+                  "name": "published",
+                  "label": "Show on website",
+                  "widget": "boolean",
+                  "default": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "courses",
+      "label": "Courses",
+      "files": [
+        {
+          "label": "Edit courses",
+          "name": "entries",
+          "file": "content/courses.json",
+          "fields": [
+            {
+              "name": "items",
+              "label": "Entries",
+              "widget": "list",
+              "summary": "{{fields.title}}",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "Title",
+                  "widget": "string"
+                },
+                {
+                  "name": "body",
+                  "label": "Description",
+                  "widget": "text",
+                  "required": false
+                },
+                {
+                  "name": "image",
+                  "label": "Image",
+                  "widget": "image",
+                  "required": false
+                },
+                {
+                  "name": "url",
+                  "label": "Resource link",
+                  "widget": "string",
+                  "required": false
+                },
+                {
+                  "name": "published",
+                  "label": "Show on website",
+                  "widget": "boolean",
+                  "default": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "news",
+      "label": "News",
+      "files": [
+        {
+          "label": "Edit news",
+          "name": "entries",
+          "file": "content/news.json",
+          "fields": [
+            {
+              "name": "items",
+              "label": "Entries",
+              "widget": "list",
+              "summary": "{{fields.title}}",
+              "fields": [
+                {
+                  "name": "title",
+                  "label": "Headline",
+                  "widget": "string"
+                },
+                {
+                  "name": "date",
+                  "label": "Date (YYYY-MM-DD)",
+                  "widget": "string",
+                  "required": false
+                },
+                {
+                  "name": "body",
+                  "label": "Article text",
+                  "widget": "text",
+                  "required": false
+                },
+                {
+                  "name": "url",
+                  "label": "Related link",
+                  "widget": "string",
+                  "required": false
+                },
+                {
+                  "name": "published",
+                  "label": "Show on website",
+                  "widget": "boolean",
+                  "default": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
